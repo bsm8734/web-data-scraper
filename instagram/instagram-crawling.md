@@ -28,6 +28,7 @@ Google images download에서 긁어오는 이미지 이외에 더 다양한 이�
 크롬드라이버를 프로젝트 내부로 위치시키기(py 파일과 동일한 위치로 이동)
 
 ![sources/Untitled.png](sources/Untitled.png)
+
 img 폴더, 크롬드라이버, 코드 이렇게 3개는 동일한 위치에 있어야한다.
 
 ### 코드
