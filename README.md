@@ -1,5 +1,6 @@
-# Data-Crawling
-웹에서 이미지 크롤링하기
+# Web Data Scraping
+
+웹에서 이미지를 자동으로 스크랩하기
 
 ## [인스타그램](https://github.com/bsm8734/Data-Crawling/blob/main/instagram/instagram-crawling.md)
 
@@ -10,6 +11,6 @@
 - 스크롤을 내리는 과정을 통해, 원하는 수 만큼 이미지를 가져올 수 있음
 - 함께한 사람: [히스](https://github.com/Heeseok-Jeong)님
 
-## 구글 이미지 다운로드
+## 구글 이미지 다운로드(later)
 
-## 유튜브 동영상에서 프레임 추출
+## 유튜브 동영상에서 프레임 추출(later)
